@@ -21,6 +21,17 @@ notable:
     pdf: https://doi.org/10.1117/12.2611557
     journal: SPIE in Medical Imaging 2022
     image: /images/SPIE_paper.png
+  - title: Divergent and Convergent Imaging Markers Between Bipolar and Unipolar Depression Based on Machine Learning
+    authors: "Huifeng Zhang†, Zhen Zhou† et al."
+    pdf: https://ieeexplore.ieee.org/document/9756278
+    journal: IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS (JBHI)
+    image: /images/JBHI_paper.png
+  - title: Classification of type 2 diabetes mellitus with or withoutcognitive impairment from healthy controls using high-orderfunctional connectivity
+    authors: "Yuna Chen†, Zhen Zhou† et al."
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25575
+    journal: Human Brain Mapping
+    image: /images/yuna_paper.png
+
   # - title: "Simple and Effective Masked Diffusion Language Models"
   #   authors: "Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov"
   #   pdf: "https://arxiv.org/abs/2406.07524"
