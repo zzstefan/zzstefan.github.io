@@ -1,83 +1,84 @@
 notable:
-  - title: "Contextual Document Embeddings"
-    authors: "J. X. Morris, Alexander Rush"
-    pdf: "https://arxiv.org/abs/2410.02525"
-    conference: "ICLR 2025"
-  - title: "Simple and Effective Masked Diffusion Language Models"
-    authors: "Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov"
-    pdf: "https://arxiv.org/abs/2406.07524"
-    image: /images/diffusion.png
-    conference: NeurIPS 2024
-  - title: "Zephyr: Direct Distillation of LM Alignment"
-    authors: "Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib, Nathan Sarrazin, Omar Sanseviero, Alexander M. Rush, Thomas Wolf"
-    pdf: "https://arxiv.org/pdf/2310.16944.pdf"
-    conference: COLM 2024
-    image:
-  - title: "Pretraining Without Attention"
-    authors: "Junxiong Wang, Jing Nathan Yan, Albert Gu, Alexander M. Rush"
-    pdf: "https://arxiv.org/pdf/2212.10544.pdf"
-    conference: EMNLP 2023 Findings
-    image: /images/bigs.png
-  - title: "Multitask prompted training enables zero-shot task generalization"
-    authors: Victor Sanh, et al.
-    pdf: https://arxiv.org/pdf/2110.08207
-    image: "https://github.com/bigscience-workshop/promptsource/raw/main/assets/promptsource_app.png"
-    conference: ICLR 2022
-  - title: "How many data points is a prompt worth?"
-    authors: Teven Le Scao, Alexander M. Rush
-    pdf: https://aclanthology.org/2021.naacl-main.208.pdf
-    image: /images/prompt.png
-    conference: NAACL Short 2021
-  - title: "Transformers: State-of-the-art Natural Language Processing"
-    authors: Thomas Wolf et al
-    pdf: https://arxiv.org/pdf/1910.03771
-    image: /images/transformers.png
-    conference: EMNLP Demos 2020
-  - title: "Compound Probabilistic Context-Free Grammars for Grammar Induction"
-    authors: Yoon Kim,  Chris Dyer, Alexander M. Rush
-    pdf: https://www.aclweb.org/anthology/P19-1228/
-    code: https://github.com/harvardnlp/compound-pcfg
-    image: /images/Tree.png
-    conference: ACL 2019
-  - title: "Learning Neural Templates for Text Generation"
-    authors: Sam Wiseman, Stuart M. Shieber, Alexander Rush
-    conference: EMNLP 2018
-    code: https://github.com/harvardnlp/neural-template-gen
-    pdf: https://arxiv.org/abs/1808.10122
-    image: /images/template.png
-  - title: "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
-    authors: Hendrik Strobelt, Sebastian Gehrmann, Hanspeter Pfister, and Alexander M. Rush
-    conference: InfoVis 2017
-    pdf: http://lstm.seas.harvard.edu/
-    code: http://lstm.seas.harvard.edu/
-    image: /images/small_teaser.png
-  - title: "OpenNMT: Open-Source Toolkit for Neural Machine Translation"
-    authors: Guillaume Klein, Yoon Kim, Yuntian Deng, Jean Senellart, Alexander M. Rush
-    conference: ACL Demo 2017
-    pdf: https://arxiv.org/abs/1701.02810
-    image: /images/overview.png
-    slides:
-  - title: Sequence-Level Knowledge Distillation
-    authors: Yoon Kim and Alexander M. Rush
-    conference: EMNLP 2016
-    pdf: http://arxiv.org/pdf/1606.07947v1.pdf
-    image: /images/segknow.png
-    slides: /slides/emnlp16_seqkd.pdf
-    code: https://github.com/harvardnlp/seq2seq-attn
-  - title: Character-Aware Neural Language Models
-    authors: Yoon Kim, Yacine Jernite, David Sontag, and Alexander M. Rush
-    conference: AAAI 2016
-    code: https://github.com/yoonkim/lstm-char-cnn
-    pdf: https://arxiv.org/pdf/1508.06615v4
-    slides: /slides/aaai16.pdf
-    image: /images/charrnn.png
-  - title: A Neural Attention Model for Abstractive Sentence Summarization
-    authors: Alexander M. Rush, Sumit Chopra, and Jason Weston
-    conference: EMNLP 2015.
-    pdf: http://arxiv.org/pdf/1509.00685.pdf
-    code: https://github.com/facebook/NAMAS
-    slides: /slides/emnlp15.pdf
-    image: /images/summary.png
+  - title: "Multiscale functional connectivity patterns of the aging brain learned from harmonized rsfMRI data of the multi-cohort iSTAGING study"
+    authors: "Zhen Zhou, "
+    code: "https://github.com/zzstefan/Multiscale-brain-aging"
+    pdf: "https://www.sciencedirect.com/science/article/pii/S1053811923000599"
+    journal: "Neuroimage"
+  # - title: "Simple and Effective Masked Diffusion Language Models"
+  #   authors: "Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov"
+  #   pdf: "https://arxiv.org/abs/2406.07524"
+  #   image: /images/diffusion.png
+  #   conference: NeurIPS 2024
+  # - title: "Zephyr: Direct Distillation of LM Alignment"
+  #   authors: "Lewis Tunstall, Edward Beeching, Nathan Lambert, Nazneen Rajani, Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro von Werra, Clémentine Fourrier, Nathan Habib, Nathan Sarrazin, Omar Sanseviero, Alexander M. Rush, Thomas Wolf"
+  #   pdf: "https://arxiv.org/pdf/2310.16944.pdf"
+  #   conference: COLM 2024
+  #   image:
+  # - title: "Pretraining Without Attention"
+  #   authors: "Junxiong Wang, Jing Nathan Yan, Albert Gu, Alexander M. Rush"
+  #   pdf: "https://arxiv.org/pdf/2212.10544.pdf"
+  #   conference: EMNLP 2023 Findings
+  #   image: /images/bigs.png
+  # - title: "Multitask prompted training enables zero-shot task generalization"
+  #   authors: Victor Sanh, et al.
+  #   pdf: https://arxiv.org/pdf/2110.08207
+  #   image: "https://github.com/bigscience-workshop/promptsource/raw/main/assets/promptsource_app.png"
+  #   conference: ICLR 2022
+  # - title: "How many data points is a prompt worth?"
+  #   authors: Teven Le Scao, Alexander M. Rush
+  #   pdf: https://aclanthology.org/2021.naacl-main.208.pdf
+  #   image: /images/prompt.png
+  #   conference: NAACL Short 2021
+  # - title: "Transformers: State-of-the-art Natural Language Processing"
+  #   authors: Thomas Wolf et al
+  #   pdf: https://arxiv.org/pdf/1910.03771
+  #   image: /images/transformers.png
+  #   conference: EMNLP Demos 2020
+  # - title: "Compound Probabilistic Context-Free Grammars for Grammar Induction"
+  #   authors: Yoon Kim,  Chris Dyer, Alexander M. Rush
+  #   pdf: https://www.aclweb.org/anthology/P19-1228/
+  #   code: https://github.com/harvardnlp/compound-pcfg
+  #   image: /images/Tree.png
+  #   conference: ACL 2019
+  # - title: "Learning Neural Templates for Text Generation"
+  #   authors: Sam Wiseman, Stuart M. Shieber, Alexander Rush
+  #   conference: EMNLP 2018
+  #   code: https://github.com/harvardnlp/neural-template-gen
+  #   pdf: https://arxiv.org/abs/1808.10122
+  #   image: /images/template.png
+  # - title: "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks"
+  #   authors: Hendrik Strobelt, Sebastian Gehrmann, Hanspeter Pfister, and Alexander M. Rush
+  #   conference: InfoVis 2017
+  #   pdf: http://lstm.seas.harvard.edu/
+  #   code: http://lstm.seas.harvard.edu/
+  #   image: /images/small_teaser.png
+  # - title: "OpenNMT: Open-Source Toolkit for Neural Machine Translation"
+  #   authors: Guillaume Klein, Yoon Kim, Yuntian Deng, Jean Senellart, Alexander M. Rush
+  #   conference: ACL Demo 2017
+  #   pdf: https://arxiv.org/abs/1701.02810
+  #   image: /images/overview.png
+  #   slides:
+  # - title: Sequence-Level Knowledge Distillation
+  #   authors: Yoon Kim and Alexander M. Rush
+  #   conference: EMNLP 2016
+  #   pdf: http://arxiv.org/pdf/1606.07947v1.pdf
+  #   image: /images/segknow.png
+  #   slides: /slides/emnlp16_seqkd.pdf
+  #   code: https://github.com/harvardnlp/seq2seq-attn
+  # - title: Character-Aware Neural Language Models
+  #   authors: Yoon Kim, Yacine Jernite, David Sontag, and Alexander M. Rush
+  #   conference: AAAI 2016
+  #   code: https://github.com/yoonkim/lstm-char-cnn
+  #   pdf: https://arxiv.org/pdf/1508.06615v4
+  #   slides: /slides/aaai16.pdf
+  #   image: /images/charrnn.png
+  # - title: A Neural Attention Model for Abstractive Sentence Summarization
+  #   authors: Alexander M. Rush, Sumit Chopra, and Jason Weston
+  #   conference: EMNLP 2015.
+  #   pdf: http://arxiv.org/pdf/1509.00685.pdf
+  #   code: https://github.com/facebook/NAMAS
+  #   slides: /slides/emnlp15.pdf
+  #   image: /images/summary.png
 papers:
   - title: "NetFlowGen: Leveraging Generative Pre-training for Network Traffic Dynamics"
     authors: "Jiawei Zhou, Woojeong Kim, Zhiying Xu, Alexander M. Rush, Minlan Yu"
