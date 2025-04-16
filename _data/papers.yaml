@@ -15,10 +15,12 @@ notable:
     authors: "Zhen Zhou et al."
     pdf: https://link.springer.com/chapter/10.1007/978-3-030-32248-9_74
     journal: MICCAI 2019
+    image: /images/MICCAI_paper.png
   - title: Harmonization of multi-site functional connectivity measures in tangent space improves brain age prediction.
     authors: "Zhen Zhou et al."
     pdf: https://doi.org/10.1117/12.2611557
     journal: SPIE in Medical Imaging 2022
+    image: /images/SPIE_paper.png
   # - title: "Simple and Effective Masked Diffusion Language Models"
   #   authors: "Subham Sekhar Sahoo, Marianne Arriola, Yair Schiff, Aaron Gokaslan, Edgar Marroquin, Justin T Chiu, Alexander Rush, Volodymyr Kuleshov"
   #   pdf: "https://arxiv.org/abs/2406.07524"
