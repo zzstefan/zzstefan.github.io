@@ -108,14 +108,272 @@ notable:
   #   slides: /slides/emnlp15.pdf
   #   image: /images/summary.png
 papers:
-  - title: "A toolbox for brain network construction and classification (BrainNetClass)"
-    authors: "Zhou, Zhen, Xiaobo Chen, Yu Zhang, Dan Hu, Lishan Qiao, Renping Yu, Pew‐Thian Yap, Gang Pan, Han Zhang, and Dinggang Shen"
-    pdf: "https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979"
-    journal: "Human Brain Mapping"
-  - title: "Challenges in Trustworthy Human Evaluation of Chatbots"
-    authors: "Wenting Zhao, Alexander M. Rush, Tanya Goyal"
-    pdf: "https://arxiv.org/abs/2412.04363"
-    conference: "NAACL 2025"
+  - title: Association of medial prefrontal cortex connectivity with consciousness level and its outcome in patients with acquired brain injury
+    authors: Liu, Xiaoyan and Li, Jingqi and Gao, Jian and Zhou, Zhen and Meng, Fanxia and Pan, Gang and Luo, Benyan
+    journal: Journal of Clinical Neuroscience
+    year: '2017'
+  - title: 'Spontaneous recovery from unresponsive wakefulness syndrome to a minimally conscious state: early structural changes revealed by 7-T magnetic resonance imaging'
+    authors: Tan, Xufei and Gao, Jian and Zhou, Zhen and Wei, Ruili and Gong, Ting and Wu, Yuqin and Liu, Kehong and He, Fangping and Wang, Junyang and Li, Jingqi and others
+    journal: Frontiers in Neurology
+    year: '2018'
+  - title: PAIR comparison between two within-group conditions of resting-state fMRI improves classification accuracy
+    authors: Zhou, Zhen and Wang, Jian-Bao and Zang, Yu-Feng and Pan, Gang
+    journal: Frontiers in Neuroscience
+    year: '2018'
+  - title: 'Multifunctional roles of the ventral stream in language models: advanced segmental quantification in post-stroke aphasic patients'
+    authors: Zhang, Jie and Wei, Xuehu and Xie, Sangma and Zhou, Zhen and Shang, Desheng and Ji, Renjie and Yu, Yamei and He, Fangping and Du, Yue and Ye, Xiangming and others
+    journal: Frontiers in neurology
+    year: '2018'
+  - title: 'Behavioral and resting state functional connectivity effects of high frequency rTMS on disorders of consciousness: a sham-controlled study'
+    authors: Liu, Xiaoyan and Meng, Fanxia and Gao, Jian and Zhang, Li and Zhou, Zhen and Pan, Gang and Luo, Benyan
+    journal: Frontiers in neurology
+    year: '2018'
+# - title: Functional connectivity of anterior insula predicts recovery of patients
+#     with disorders of consciousness
+#   authors: Zhang, Li and Luo, Lunjie and Zhou, Zhen and Xu, Kaibin and Zhang, Lijuan
+#     and Liu, Xiaoyan and Tan, Xufei and Zhang, Jie and Ye, Xiangming and Gao, Jian
+#     and others
+#   journal: Frontiers in neurology
+#   year: '2018'
+# - title: Structural connectome alterations in patients with disorders of consciousness
+#     revealed by 7-tesla magnetic resonance imaging
+#   authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Meng, Fanxia and Yu, Yamei
+#     and Zhang, Jie and He, Fangping and Wei, Ruili and Wang, Junyang and Peng, Guoping
+#     and others
+#   journal: 'NeuroImage: Clinical'
+#   year: '2019'
+# - title: A toolbox for brain network construction and classification (BrainNetClass)
+#   authors: Zhou, Zhen and Chen, Xiaobo and Zhang, Yu and Hu, Dan and Qiao, Lishan
+#     and Yu, Renping and Yap, Pew-Thian and Pan, Gang and Zhang, Han and Shen, Dinggang
+#   journal: Human brain mapping
+#   year: '2020'
+# - title: Multi-layer temporal network analysis reveals increasing temporal reachability
+#     and spreadability in the first two years of life
+#   authors: Zhou, Zhen and Zhang, Han and Hsu, Li-Ming and Lin, Weili and Pan, Gang
+#     and Shen, Dinggang and UNC/UMN Baby Connectome Project Consortium
+#   journal: ''
+#   year: '2019'
+# - title: A deep learning framework for noise component detection from resting-state
+#     functional MRI
+#   authors: Kam, Tae-Eui and Wen, Xuyun and Jin, Bing and Jiao, Zhicheng and Hsu, Li-Ming
+#     and Zhou, Zhen and Liu, Yujie and Yamashita, Koji and Hung, Sheng-Che and Lin,
+#     Weili and others
+#   journal: ''
+#   year: '2019'
+# - title: A computational framework for dissociating development-related from individually
+#     variable flexibility in regional modularity assignment in early infancy
+#   authors: Soussia, Mayssa and Wen, Xuyun and Zhou, Zhen and Jin, Bing and Kam, Tae-Eui
+#     and Hsu, Li-Ming and Wu, Zhengwang and Li, Gang and Wang, Li and Rekik, Islem
+#     and others
+#   journal: ''
+#   year: '2020'
+# - title: "A new metric for characterizing dynamic redundancy of dense brain chronnectome\
+#     \ and its application to early detection of Alzheimer\u2019s disease"
+#   authors: Ghanbari, Maryam and Hsu, Li-Ming and Zhou, Zhen and Ghanbari, Amir and
+#     Mo, Zhanhao and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
+#   journal: ''
+#   year: '2020'
+# - title: "Altered connectedness of the brain chronnectome during the progression to\
+#     \ Alzheimer\u2019s disease"
+#   authors: Ghanbari, Maryam and Zhou, Zhen and Hsu, Li-Ming and Han, Ying and Sun,
+#     Yu and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
+#   journal: Neuroinformatics
+#   year: '2022'
+# - title: White matter connectometry in patients with disorders of consciousness revealed
+#     by 7-Tesla magnetic resonance imaging
+#   authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Yu, Yamei and Wei, Ruili and
+#     Luo, Benyan and Zhang, Xiaotong
+#   journal: Brain Imaging and Behavior
+#   year: '2022'
+# - title: Classification of type 2 diabetes mellitus with or without cognitive impairment
+#     from healthy controls using high-order functional connectivity
+#   authors: Chen, Yuna and Zhou, Zhen and Liang, Yi and Tan, Xin and Li, Yifan and
+#     Qin, Chunhong and Feng, Yue and Ma, Xiaomeng and Mo, Zhanhao and Xia, Jing and
+#     others
+#   journal: Human Brain Mapping
+#   year: '2021'
+# - title: Effects of prenatal opioid exposure on functional networks in infancy
+#   authors: Merhar, Stephanie L and Jiang, Weixiong and Parikh, Nehal A and Yin, Weiyan
+#     and Zhou, Zhen and Tkach, Jean A and Wang, Li and Kline-Fath, Beth M and He, Lili
+#     and Braimah, Adebayo and others
+#   journal: Developmental Cognitive Neuroscience
+#   year: '2021'
+# - title: Longitudinal Parcellation of the Infant Cortex Using Multi-modal Connectome
+#     Harmonics
+#   authors: Taylor, Hoyt Patrick and Ahmad, Sahar and Wu, Ye and Huynh, Khoi Minh and
+#     Zhou, Zhen and Wu, Zhengwang and Lin, Weili and Wang, Li and Li, Gang and Zhang,
+#     Han and others
+#   journal: ''
+#   year: '2021'
+# - title: Cerebral perfusion mediated by thalamo-cortical functional connectivity in
+#     non-dominant thalamus affects naming ability in aphasia
+#   authors: Zhang, Jie and Zhou, Zhen and Li, Lingling and Ye, Jing and Shang, Desheng
+#     and Zhong, Shuchang and Yao, Bo and Xu, Cong and Yu, Yamei and He, Fangping and
+#     others
+#   journal: Human Brain Mapping
+#   year: '2022'
+# - title: Existence of functional connectome fingerprint during infancy and its stability
+#     over months
+#   authors: Hu, Dan and Wang, Fan and Zhang, Han and Wu, Zhengwang and Zhou, Zhen and
+#     Li, Guoshi and Wang, Li and Lin, Weili and Li, Gang and UNC/UMN Baby Connectome
+#     Project Consortium and others
+#   journal: Journal of Neuroscience
+#   year: '2022'
+# - title: Generation of Infant-dedicated Fine-grained Functional Parcellation Maps
+#     of Cerebral Cortex
+#   authors: Wang, Fan and Zhang, Han and Wu, Zhengwang and Hu, Dan and Zhou, Zhen and
+#     Wang, Li and Lin, Weili and Li, Gang and UNC/UMN Baby Connectome Project Consortium
+#   journal: bioRxiv
+#   year: '2021'
+# - title: Harmonization of multi-site functional connectivity measures in tangent space
+#     improves brain age prediction
+#   authors: Zhou, Zhen and Srinivasan, Dhivya and Li, Hongming and Abdulkadir, Ahmed
+#     and Shou, Haochang and Davatzikos, Christos and Fan, Yong and ISTAGING Consortium
+#     and others
+#   journal: ''
+#   year: '2022'
+# - title: Mega-analysis of brain structural covariance, genetics, and clinical phenotypes
+#   authors: Wen, Junhao and Nasrallah, Ilya and Abdulkadir, Ahmed and Satterthwaite,
+#     Theodore and Erus, Guray and Robert-Fitzgerald, Timothy and Singh, Ashish and
+#     Sotiras, Aristeidis and Boquet-Pujadas, Aleix and Yang, Zhijian and others
+#   journal: ''
+#   year: '2022'
+# - title: Divergent and convergent imaging markers between bipolar and unipolar depression
+#     based on machine learning
+#   authors: Zhang, Huifeng and Zhou, Zhen and Ding, Lei and Wu, Chuangxin and Qiu,
+#     Meihui and Huang, Yueqi and Jin, Feng and Shen, Ting and Yang, Yao and Hsu, Li-Ming
+#     and others
+#   journal: IEEE Journal of Biomedical and Health Informatics
+#   year: '2022'
+# - title: 'Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA
+#     regulatory network in periodontitis: bridging the gap between bioinformatics and
+#     clinical needs'
+#   authors: Yu, Weijun and Gu, Qisheng and Wu, Di and Zhang, Weiqi and Li, Gang and
+#     Lin, Lu and Lowe, Jared M and Hu, Shucheng and Li, Tia Wenjun and Zhou, Zhen and
+#     others
+#   journal: Journal of Periodontal Research
+#   year: '2022'
+# - title: Neural alterations in opioid-exposed infants revealed by edge-centric brain
+#     functional networks
+#   authors: Jiang, Weixiong and Merhar, Stephanie L and Zeng, Zhuohao and Zhu, Ziliang
+#     and Yin, Weiyan and Zhou, Zhen and Wang, Li and He, Lili and Vannest, Jennifer
+#     and Lin, Weili
+#   journal: Brain Communications
+#   year: '2022'
+# - title: Multiscale functional connectivity patterns of the aging brain learned from
+#     rsfMRI data of 4,259 individuals of the multi-cohort iSTAGING study
+#   authors: Zhou, Zhen and Srinivasan, Dhivya and Li, Hongming and Abdulkadir, Ahmed
+#     and Nasrallah, Ilya and Wen, Junhao and Doshi, Jimit and Erus, Guray and Mamourian,
+#     Elizabeth and Bryan, Nick R and others
+#   journal: bioRxiv
+#   year: '2022'
+# - title: "Genetic, clinical underpinnings of subtle early brain change along Alzheimer\u2019\
+#     s dimensions"
+#   authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and
+#     Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth
+#     and Hwang, Gyujoon and Singh, Ashish and others
+#   journal: bioRxiv
+#   year: '2022'
+# - title: Multiscale functional connectivity patterns of the aging brain learned from
+#     harmonized rsfMRI data of the multi-cohort iSTAGING study
+#   authors: Zhou, Zhen and Li, Hongming and Srinivasan, Dhivya and Abdulkadir, Ahmed
+#     and Nasrallah, Ilya M and Wen, Junhao and Doshi, Jimit and Erus, Guray and Mamourian,
+#     Elizabeth and Bryan, Nick R and others
+#   journal: NeuroImage
+#   year: '2023'
+# - title: Mapping the Evolution of Regional Brain Network Efficiency and Its Association
+#     with Infant Cognitive Abilities
+#   authors: Jiang, Weixiong and Zhou, Zhen and Li, Guoshi and Yin, Weiyan and Wu, Zhengwang
+#     and Wang, Li and Ghanbari, Maryam and Li, Gang and Yap, Pew-Thian and Howell,
+#     Brittany R and others
+#   journal: ''
+#   year: ''
+# - title: The Genetic Heterogeneity of Multimodal Human Brain Age.
+#   authors: Wen, Junhao and Zhao, Bingxin and Yang, Zhijian and Erus, Guray and Skampardoni,
+#     Ioanna and Mamourian, Elizabeth and Cui, Yuhan and Hwang, Gyujoon and Bao, Jingxuan
+#     and Boquet-Pujadas, Aleix and others
+#   journal: 'Biorxiv: the Preprint Server for Biology'
+#   year: '2023'
+# - title: Mapping the evolution of regional brain network efficiency and its association
+#     with cognitive abilities during the first twenty-eight months of life
+#   authors: Jiang, Weixiong and Zhou, Zhen and Li, Guoshi and Yin, Weiyan and Wu, Zhengwang
+#     and Wang, Li and Ghanbari, Maryam and Li, Gang and Yap, Pew-Thian and Howell,
+#     Brittany R and others
+#   journal: Developmental Cognitive Neuroscience
+#   year: '2023'
+# - title: Fine-grained functional parcellation maps of the infant cerebral cortex
+#   authors: Wang, Fan and Zhang, Han and Wu, Zhengwang and Hu, Dan and Zhou, Zhen and
+#     Girault, Jessica B and Wang, Li and Lin, Weili and Li, Gang
+#   journal: elife
+#   year: '2023'
+# - title: Cross-scale functional connectivity patterns of the aging brain learned from
+#     the multi-cohort iSTAGing study
+#   authors: Zhou, Zhen and Li, Hongming and Tran, Chau B and Ma, Yuncong and Srinivasan,
+#     Dhivya and Abdulkadir, Ahmed and Wen, Junhao and Erus, Guray and Mamourian, Elizabeth
+#     and Nasrallah, Ilya M and others
+#   journal: Alzheimer's \& Dementia
+#   year: '2023'
+# - title: Genomic loci influence patterns of structural covariance in the human brain
+#   authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite,
+#     Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and
+#     Singh, Ashish and Sotiras, Aristeidis and Boquet-Pujadas, Aleix and others
+#   journal: Proceedings of the National Academy of Sciences
+#   year: '2023'
+# - title: The genetic architecture of multimodal human brain age
+#   authors: Wen, Junhao and Zhao, Bingxin and Yang, Zhijian and Erus, Guray and Skampardoni,
+#     Ioanna and Mamourian, Elizabeth and Cui, Yuhan and Hwang, Gyujoon and Bao, Jingxuan
+#     and Boquet-Pujadas, Aleix and others
+#   journal: Nature communications
+#   year: '2024'
+# - title: Novel genomic loci influence patterns of structural covariance in the human
+#     brain
+#   authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite,
+#     Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and
+#     Singh, Ashish and Sotiras, Aristeidis and Boquet-Pujadas, Aleix and others
+#   journal: medRxiv
+#   year: '2022'
+# - title: 'pNet: A toolbox for personalized functional networks modeling'
+#   authors: Ma, Yuncong and Li, Hongming and Zhou, Zhen and Chen, Xiaoyang and Ma,
+#     Liang and Guray, Erus and Balderston, Nicholas L and Oathes, Desmond J and Shinohara,
+#     Russell T and Wolf, Daniel H and others
+#   journal: bioRxiv
+#   year: '2024'
+# - title: Organocatalytic asymmetric tandem reaction for the enantioselective synthesis
+#     of chiral oxindoles to construct CyK dyes
+#   authors: Wang, Le and Li, Zi-Hao and Wu, Di and Ge, Rui-Tian and Zhou, Jia and Zhang,
+#     Yin-Feng and Zhang, Shu-Yu
+#   journal: Chem Catalysis
+#   year: '2025'
+# - title: Harmonization of Structural Brain Connectivity through Distribution Matching
+#   authors: Zhou, Zhen and Fischl, Bruce and Aganj, Iman
+#   journal: bioRxiv
+#   year: '2024'
+# - title: "Genetic and clinical correlates of two neuroanatomical AI dimensions in\
+#     \ the Alzheimer\u2019s disease continuum"
+#   authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and
+#     Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth
+#     and Hwang, Gyujoon and Singh, Ashish and others
+#   journal: Translational psychiatry
+#   year: '2024'
+# - title: "Relationship between MRI brain-age heterogeneity, cognition, genetics and\
+#     \ Alzheimer\u2019s disease neuropathology"
+#   authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray
+#     and Abdulkadir, Ahmed and Mamourian, Elizabeth and Melhem, Randa and Hwang, Gyujoon
+#     and Cui, Yuhan and Govindarajan, Sindhuja Tirumalai and others
+#   journal: EBioMedicine
+#   year: '2024'
+#   - title: Deep clustering survival machines with interpretable expert distributions
+#     authors: Hou, Bojian and Li, Hongming and Jiao, Zhicheng and Zhou, Zhen and Zheng,
+#       Hao and Fan, Yong
+#     journal: ''
+#     year: '2023'
+#   - title: International conference on medical image computing and computer-assisted
+#       intervention
+#     authors: Kam, TE and Wen, X and Jin, B and Jiao, Z and Hsu, LM and Zhou, Z and Liu,
+#       Y and Yamashita, K and Hung, SC and Lin, W and others
+#     journal: ''
+#     year: '2019'
+
   # - title: "Commit0: Library Generation from Scratch"
   #   authors: "Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush"
   #   pdf: "https://arxiv.org/abs/2412.01769"
