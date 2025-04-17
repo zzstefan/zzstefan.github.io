@@ -111,23 +111,27 @@ papers:
   - title: Association of medial prefrontal cortex connectivity with consciousness level and its outcome in patients with acquired brain injury
     authors: Liu, Xiaoyan and Li, Jingqi and Gao, Jian and Zhou, Zhen and Meng, Fanxia and Pan, Gang and Luo, Benyan
     journal: Journal of Clinical Neuroscience
-    pdf: "https://www.jocn-journal.com/article/S0967-5868(17)30168-6/abstract"
+    pdf: https://www.jocn-journal.com/article/S0967-5868(17)30168-6/abstract
     year: '2017'
   - title: 'Spontaneous recovery from unresponsive wakefulness syndrome to a minimally conscious state: early structural changes revealed by 7-T magnetic resonance imaging'
     authors: Tan, Xufei and Gao, Jian and Zhou, Zhen and Wei, Ruili and Gong, Ting and Wu, Yuqin and Liu, Kehong and He, Fangping and Wang, Junyang and Li, Jingqi and others
     journal: Frontiers in Neurology
+    pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2017.00741/full
     year: '2018'
   - title: PAIR comparison between two within-group conditions of resting-state fMRI improves classification accuracy
     authors: Zhou, Zhen and Wang, Jian-Bao and Zang, Yu-Feng and Pan, Gang
     journal: Frontiers in Neuroscience
+    pdf: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00740/full
     year: '2018'
   - title: 'Multifunctional roles of the ventral stream in language models: advanced segmental quantification in post-stroke aphasic patients'
     authors: Zhang, Jie and Wei, Xuehu and Xie, Sangma and Zhou, Zhen and Shang, Desheng and Ji, Renjie and Yu, Yamei and He, Fangping and Du, Yue and Ye, Xiangming and others
     journal: Frontiers in neurology
+    pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00089/full
     year: '2018'
   - title: 'Behavioral and resting state functional connectivity effects of high frequency rTMS on disorders of consciousness: a sham-controlled study'
     authors: Liu, Xiaoyan and Meng, Fanxia and Gao, Jian and Zhang, Li and Zhou, Zhen and Pan, Gang and Luo, Benyan
     journal: Frontiers in neurology
+    pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00982/full
     year: '2018'
 # - title: Functional connectivity of anterior insula predicts recovery of patients
 #     with disorders of consciousness
