@@ -14,7 +14,7 @@ show: 1
         >here</a
     >.
 </p>
-<table>
+<!-- <table>
     {% for paper in site.data.papers.papers %}
 
     <tr>
@@ -29,7 +29,23 @@ show: 1
     </tr>
 
     {% endfor %}
+</table> -->
+
+<table>
+    {% assign sorted_papers = site.data.papers.papers | sort: "year" | reverse %}
+    {% for paper in sorted_papers %}
+    <tr>
+        <td style="padding: 10px"></td>
+        <td style="padding: 10px">
+            <a class="paper" href="{{paper.pdf}}"> {{paper.title}} </a><br />
+            {{paper.authors}}.<br />
+            {{paper.journal}} ({{paper.year}})<br />
+            <br />
+        </td>
+    </tr>
+    {% endfor %}
 </table>
+
 
 <!-- <h3>PhD Publications</h3>
 
