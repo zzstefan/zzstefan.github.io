@@ -133,6 +133,11 @@ papers:
     journal: Frontiers in neurology
     pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00982/full
     year: '2018'
+  - title: "Genetic and clinical correlates of two neuroanatomical AI dimensions in the Alzheimer's disease continuum"
+    authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth and Hwang, Gyujoon and Singh, Ashish and others
+    journal: Translational psychiatry
+    pdf: https://www.nature.com/articles/s41398-024-03121-5
+    year: '2024'
 # - title: Functional connectivity of anterior insula predicts recovery of patients
 #     with disorders of consciousness
 #   authors: Zhang, Li and Luo, Lunjie and Zhou, Zhen and Xu, Kaibin and Zhang, Lijuan
@@ -353,13 +358,7 @@ papers:
 #   authors: Zhou, Zhen and Fischl, Bruce and Aganj, Iman
 #   journal: bioRxiv
 #   year: '2024'
-# - title: "Genetic and clinical correlates of two neuroanatomical AI dimensions in\
-#     \ the Alzheimer\u2019s disease continuum"
-#   authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and
-#     Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth
-#     and Hwang, Gyujoon and Singh, Ashish and others
-#   journal: Translational psychiatry
-#   year: '2024'
+
 # - title: "Relationship between MRI brain-age heterogeneity, cognition, genetics and\
 #     \ Alzheimer\u2019s disease neuropathology"
 #   authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray
