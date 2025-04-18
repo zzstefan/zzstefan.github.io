@@ -248,31 +248,21 @@ papers:
     journal: Alzheimer's & Dementia
     pdf: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.077281
     year: 2023
-# - title: Genomic loci influence patterns of structural covariance in the human brain
-#   authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite,
-#     Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and
-#     Singh, Ashish and Sotiras, Aristeidis and Boquet-Pujadas, Aleix and others
-#   journal: Proceedings of the National Academy of Sciences
-#   year: '2023'
-# - title: The genetic architecture of multimodal human brain age
-#   authors: Wen, Junhao and Zhao, Bingxin and Yang, Zhijian and Erus, Guray and Skampardoni,
-#     Ioanna and Mamourian, Elizabeth and Cui, Yuhan and Hwang, Gyujoon and Bao, Jingxuan
-#     and Boquet-Pujadas, Aleix and others
-#   journal: Nature communications
-#   year: '2024'
-# - title: Novel genomic loci influence patterns of structural covariance in the human
-#     brain
-#   authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite,
-#     Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and
-#     Singh, Ashish and Sotiras, Aristeidis and Boquet-Pujadas, Aleix and others
-#   journal: medRxiv
-#   year: '2022'
-# - title: 'pNet: A toolbox for personalized functional networks modeling'
-#   authors: Ma, Yuncong and Li, Hongming and Zhou, Zhen and Chen, Xiaoyang and Ma,
-#     Liang and Guray, Erus and Balderston, Nicholas L and Oathes, Desmond J and Shinohara,
-#     Russell T and Wolf, Daniel H and others
-#   journal: bioRxiv
-#   year: '2024'
+  - title: Genomic loci influence patterns of structural covariance in the human brain
+    authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite, Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and Singh, Ashish and Sotiras, Aristeidis and Boquet-Pujadas, Aleix and others
+    journal: Proceedings of the National Academy of Sciences
+    pdf: https://www.pnas.org/doi/10.1073/pnas.2300842120
+    year: 2023
+  - title: The genetic architecture of multimodal human brain age
+    authors: Wen, Junhao and Zhao, Bingxin and Yang, Zhijian and Erus, Guray and Skampardoni, Ioanna and Mamourian, Elizabeth and Cui, Yuhan and Hwang, Gyujoon and Bao, Jingxuan and Boquet-Pujadas, Aleix and others
+    journal: Nature communications
+    pdf: https://www.nature.com/articles/s41467-024-46796-6
+    year: 2024
+  - title: 'pNet: A toolbox for personalized functional networks modeling'
+    authors: Ma, Yuncong and Li, Hongming and Zhou, Zhen and Chen, Xiaoyang and Ma, Liang and Guray, Erus and Balderston, Nicholas L and Oathes, Desmond J and Shinohara, Russell T and Wolf, Daniel H and others
+    journal: bioRxiv
+    pdf: https://www.biorxiv.org/content/10.1101/2024.04.26.591367v1
+    year: '2024'
   - title: Relationship between MRI brain-age heterogeneity, cognition, genetics and Alzheimer's disease neuropathology
     authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray and Abdulkadir, Ahmed and Mamourian, Elizabeth and Melhem, Randa and Hwang, Gyujoon and Cui, Yuhan and Govindarajan, Sindhuja Tirumalai and Chen, Andrew A and Zhou, Zhen and others
     journal: EBioMedicine
