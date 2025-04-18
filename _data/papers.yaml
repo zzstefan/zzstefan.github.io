@@ -112,83 +112,72 @@ papers:
     authors: Liu, Xiaoyan and Li, Jingqi and Gao, Jian and Zhou, Zhen and Meng, Fanxia and Pan, Gang and Luo, Benyan
     journal: Journal of Clinical Neuroscience
     pdf: https://www.jocn-journal.com/article/S0967-5868(17)30168-6/abstract
-    year: '2017'
+    year: 2017
   - title: 'Spontaneous recovery from unresponsive wakefulness syndrome to a minimally conscious state: early structural changes revealed by 7-T magnetic resonance imaging'
     authors: Tan, Xufei and Gao, Jian and Zhou, Zhen and Wei, Ruili and Gong, Ting and Wu, Yuqin and Liu, Kehong and He, Fangping and Wang, Junyang and Li, Jingqi and others
     journal: Frontiers in Neurology
     pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2017.00741/full
-    year: '2018'
+    year: 2018
   - title: PAIR comparison between two within-group conditions of resting-state fMRI improves classification accuracy
     authors: Zhou, Zhen and Wang, Jian-Bao and Zang, Yu-Feng and Pan, Gang
     journal: Frontiers in Neuroscience
     pdf: https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00740/full
-    year: '2018'
+    year: 2018
   - title: 'Multifunctional roles of the ventral stream in language models: advanced segmental quantification in post-stroke aphasic patients'
     authors: Zhang, Jie and Wei, Xuehu and Xie, Sangma and Zhou, Zhen and Shang, Desheng and Ji, Renjie and Yu, Yamei and He, Fangping and Du, Yue and Ye, Xiangming and others
     journal: Frontiers in neurology
     pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00089/full
-    year: '2018'
+    year: 2018
   - title: 'Behavioral and resting state functional connectivity effects of high frequency rTMS on disorders of consciousness: a sham-controlled study'
     authors: Liu, Xiaoyan and Meng, Fanxia and Gao, Jian and Zhang, Li and Zhou, Zhen and Pan, Gang and Luo, Benyan
     journal: Frontiers in neurology
     pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.00982/full
-    year: '2018'
+    year: 2018
   - title: "Genetic and clinical correlates of two neuroanatomical AI dimensions in the Alzheimer's disease continuum"
     authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth and Hwang, Gyujoon and Singh, Ashish and others
     journal: Translational psychiatry
     pdf: https://www.nature.com/articles/s41398-024-03121-5
-    year: '2024'
-# - title: Functional connectivity of anterior insula predicts recovery of patients
-#     with disorders of consciousness
-#   authors: Zhang, Li and Luo, Lunjie and Zhou, Zhen and Xu, Kaibin and Zhang, Lijuan
-#     and Liu, Xiaoyan and Tan, Xufei and Zhang, Jie and Ye, Xiangming and Gao, Jian
-#     and others
-#   journal: Frontiers in neurology
-#   year: '2018'
-# - title: Structural connectome alterations in patients with disorders of consciousness
-#     revealed by 7-tesla magnetic resonance imaging
-#   authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Meng, Fanxia and Yu, Yamei
-#     and Zhang, Jie and He, Fangping and Wei, Ruili and Wang, Junyang and Peng, Guoping
-#     and others
-#   journal: 'NeuroImage: Clinical'
-#   year: '2019'
-# - title: A toolbox for brain network construction and classification (BrainNetClass)
-#   authors: Zhou, Zhen and Chen, Xiaobo and Zhang, Yu and Hu, Dan and Qiao, Lishan
-#     and Yu, Renping and Yap, Pew-Thian and Pan, Gang and Zhang, Han and Shen, Dinggang
-#   journal: Human brain mapping
-#   year: '2020'
-# - title: Multi-layer temporal network analysis reveals increasing temporal reachability
-#     and spreadability in the first two years of life
-#   authors: Zhou, Zhen and Zhang, Han and Hsu, Li-Ming and Lin, Weili and Pan, Gang
-#     and Shen, Dinggang and UNC/UMN Baby Connectome Project Consortium
-#   journal: ''
-#   year: '2019'
-# - title: A deep learning framework for noise component detection from resting-state
-#     functional MRI
-#   authors: Kam, Tae-Eui and Wen, Xuyun and Jin, Bing and Jiao, Zhicheng and Hsu, Li-Ming
-#     and Zhou, Zhen and Liu, Yujie and Yamashita, Koji and Hung, Sheng-Che and Lin,
-#     Weili and others
-#   journal: ''
-#   year: '2019'
-# - title: A computational framework for dissociating development-related from individually
-#     variable flexibility in regional modularity assignment in early infancy
-#   authors: Soussia, Mayssa and Wen, Xuyun and Zhou, Zhen and Jin, Bing and Kam, Tae-Eui
-#     and Hsu, Li-Ming and Wu, Zhengwang and Li, Gang and Wang, Li and Rekik, Islem
-#     and others
-#   journal: ''
-#   year: '2020'
-# - title: "A new metric for characterizing dynamic redundancy of dense brain chronnectome\
-#     \ and its application to early detection of Alzheimer\u2019s disease"
-#   authors: Ghanbari, Maryam and Hsu, Li-Ming and Zhou, Zhen and Ghanbari, Amir and
-#     Mo, Zhanhao and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
-#   journal: ''
-#   year: '2020'
-# - title: "Altered connectedness of the brain chronnectome during the progression to\
-#     \ Alzheimer\u2019s disease"
-#   authors: Ghanbari, Maryam and Zhou, Zhen and Hsu, Li-Ming and Han, Ying and Sun,
-#     Yu and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
-#   journal: Neuroinformatics
-#   year: '2022'
+    year: 2024
+  - title: Functional connectivity of anterior insula predicts recovery of patients with disorders of consciousness
+    authors: Zhang, Li and Luo, Lunjie and Zhou, Zhen and Xu, Kaibin and Zhang, Lijuan and Liu, Xiaoyan and Tan, Xufei and Zhang, Jie and Ye, Xiangming and Gao, Jian and others
+    journal: Frontiers in neurology
+    pdf: https://www.frontiersin.org/journals/neurology/articles/10.3389/fneur.2018.01024/full
+    year: 2018
+  - title: Structural connectome alterations in patients with disorders of consciousness revealed by 7-tesla magnetic resonance imaging
+    authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Meng, Fanxia and Yu, Yamei and Zhang, Jie and He, Fangping and Wei, Ruili and Wang, Junyang and Peng, Guoping and others
+    journal: 'NeuroImage: Clinical'
+    pdf: https://www.sciencedirect.com/science/article/pii/S221315821930052X?via%3Dihub
+    year: 2019
+  - title: A toolbox for brain network construction and classification (BrainNetClass)
+    authors: Zhou, Zhen and Chen, Xiaobo and Zhang, Yu and Hu, Dan and Qiao, Lishan and Yu, Renping and Yap, Pew-Thian and Pan, Gang and Zhang, Han and Shen, Dinggang
+    journal: Human brain mapping
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24979
+    year: 2020
+  - title: Multi-layer temporal network analysis reveals increasing temporal reachability and spreadability in the first two years of life
+    authors: Zhou, Zhen and Zhang, Han and Hsu, Li-Ming and Lin, Weili and Pan, Gang and Shen, Dinggang and UNC/UMN Baby Connectome Project Consortium
+    journal: MICCAI
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-32248-9_74
+    year: 2019
+  - title: A deep learning framework for noise component detection from resting-state functional MRI
+    authors: Kam, Tae-Eui and Wen, Xuyun and Jin, Bing and Jiao, Zhicheng and Hsu, Li-Ming and Zhou, Zhen and Liu, Yujie and Yamashita, Koji and Hung, Sheng-Che and Lin, Weili and others
+    journal: MICCAI
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-32248-9_84
+    year: 2019
+  - title: A computational framework for dissociating development-related from individually variable flexibility in regional modularity assignment in early infancy
+    authors: Soussia, Mayssa and Wen, Xuyun and Zhou, Zhen and Jin, Bing and Kam, Tae-Eui and Hsu, Li-Ming and Wu, Zhengwang and Li, Gang and Wang, Li and Rekik, Islem and others
+    journal: MICCAI
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-59728-3_2
+    year: 2020
+  - title: A new metric for characterizing dynamic redundancy of dense brain chronnectome and its application to early detection of Alzheimer's disease
+    authors: Ghanbari, Maryam and Hsu, Li-Ming and Zhou, Zhen and Ghanbari, Amir and Mo, Zhanhao and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
+    journal: MICCAI
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-59728-3_1
+    year: 2020
+  - title: Altered connectedness of the brain chronnectome during the progression to Alzheimer‘s disease
+    authors: Ghanbari, Maryam and Zhou, Zhen and Hsu, Li-Ming and Han, Ying and Sun, Yu and Yap, Pew-Thian and Zhang, Han and Shen, Dinggang
+    journal: Neuroinformatics
+    pdf: https://link.springer.com/article/10.1007/s12021-021-09554-3
+    year: 2022
 # - title: White matter connectometry in patients with disorders of consciousness revealed
 #     by 7-Tesla magnetic resonance imaging
 #   authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Yu, Yamei and Wei, Ruili and
