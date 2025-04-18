@@ -178,140 +178,76 @@ papers:
     journal: Neuroinformatics
     pdf: https://link.springer.com/article/10.1007/s12021-021-09554-3
     year: 2022
-# - title: White matter connectometry in patients with disorders of consciousness revealed
-#     by 7-Tesla magnetic resonance imaging
-#   authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Yu, Yamei and Wei, Ruili and
-#     Luo, Benyan and Zhang, Xiaotong
-#   journal: Brain Imaging and Behavior
-#   year: '2022'
-# - title: Classification of type 2 diabetes mellitus with or without cognitive impairment
-#     from healthy controls using high-order functional connectivity
-#   authors: Chen, Yuna and Zhou, Zhen and Liang, Yi and Tan, Xin and Li, Yifan and
-#     Qin, Chunhong and Feng, Yue and Ma, Xiaomeng and Mo, Zhanhao and Xia, Jing and
-#     others
-#   journal: Human Brain Mapping
-#   year: '2021'
-# - title: Effects of prenatal opioid exposure on functional networks in infancy
-#   authors: Merhar, Stephanie L and Jiang, Weixiong and Parikh, Nehal A and Yin, Weiyan
-#     and Zhou, Zhen and Tkach, Jean A and Wang, Li and Kline-Fath, Beth M and He, Lili
-#     and Braimah, Adebayo and others
-#   journal: Developmental Cognitive Neuroscience
-#   year: '2021'
-# - title: Longitudinal Parcellation of the Infant Cortex Using Multi-modal Connectome
-#     Harmonics
-#   authors: Taylor, Hoyt Patrick and Ahmad, Sahar and Wu, Ye and Huynh, Khoi Minh and
-#     Zhou, Zhen and Wu, Zhengwang and Lin, Weili and Wang, Li and Li, Gang and Zhang,
-#     Han and others
-#   journal: ''
-#   year: '2021'
-# - title: Cerebral perfusion mediated by thalamo-cortical functional connectivity in
-#     non-dominant thalamus affects naming ability in aphasia
-#   authors: Zhang, Jie and Zhou, Zhen and Li, Lingling and Ye, Jing and Shang, Desheng
-#     and Zhong, Shuchang and Yao, Bo and Xu, Cong and Yu, Yamei and He, Fangping and
-#     others
-#   journal: Human Brain Mapping
-#   year: '2022'
-# - title: Existence of functional connectome fingerprint during infancy and its stability
-#     over months
-#   authors: Hu, Dan and Wang, Fan and Zhang, Han and Wu, Zhengwang and Zhou, Zhen and
-#     Li, Guoshi and Wang, Li and Lin, Weili and Li, Gang and UNC/UMN Baby Connectome
-#     Project Consortium and others
-#   journal: Journal of Neuroscience
-#   year: '2022'
-# - title: Generation of Infant-dedicated Fine-grained Functional Parcellation Maps
-#     of Cerebral Cortex
-#   authors: Wang, Fan and Zhang, Han and Wu, Zhengwang and Hu, Dan and Zhou, Zhen and
-#     Wang, Li and Lin, Weili and Li, Gang and UNC/UMN Baby Connectome Project Consortium
-#   journal: bioRxiv
-#   year: '2021'
-# - title: Harmonization of multi-site functional connectivity measures in tangent space
-#     improves brain age prediction
-#   authors: Zhou, Zhen and Srinivasan, Dhivya and Li, Hongming and Abdulkadir, Ahmed
-#     and Shou, Haochang and Davatzikos, Christos and Fan, Yong and ISTAGING Consortium
-#     and others
-#   journal: ''
-#   year: '2022'
-# - title: Mega-analysis of brain structural covariance, genetics, and clinical phenotypes
-#   authors: Wen, Junhao and Nasrallah, Ilya and Abdulkadir, Ahmed and Satterthwaite,
-#     Theodore and Erus, Guray and Robert-Fitzgerald, Timothy and Singh, Ashish and
-#     Sotiras, Aristeidis and Boquet-Pujadas, Aleix and Yang, Zhijian and others
-#   journal: ''
-#   year: '2022'
-# - title: Divergent and convergent imaging markers between bipolar and unipolar depression
-#     based on machine learning
-#   authors: Zhang, Huifeng and Zhou, Zhen and Ding, Lei and Wu, Chuangxin and Qiu,
-#     Meihui and Huang, Yueqi and Jin, Feng and Shen, Ting and Yang, Yao and Hsu, Li-Ming
-#     and others
-#   journal: IEEE Journal of Biomedical and Health Informatics
-#   year: '2022'
-# - title: 'Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA
-#     regulatory network in periodontitis: bridging the gap between bioinformatics and
-#     clinical needs'
-#   authors: Yu, Weijun and Gu, Qisheng and Wu, Di and Zhang, Weiqi and Li, Gang and
-#     Lin, Lu and Lowe, Jared M and Hu, Shucheng and Li, Tia Wenjun and Zhou, Zhen and
-#     others
-#   journal: Journal of Periodontal Research
-#   year: '2022'
-# - title: Neural alterations in opioid-exposed infants revealed by edge-centric brain
-#     functional networks
-#   authors: Jiang, Weixiong and Merhar, Stephanie L and Zeng, Zhuohao and Zhu, Ziliang
-#     and Yin, Weiyan and Zhou, Zhen and Wang, Li and He, Lili and Vannest, Jennifer
-#     and Lin, Weili
-#   journal: Brain Communications
-#   year: '2022'
-# - title: Multiscale functional connectivity patterns of the aging brain learned from
-#     rsfMRI data of 4,259 individuals of the multi-cohort iSTAGING study
-#   authors: Zhou, Zhen and Srinivasan, Dhivya and Li, Hongming and Abdulkadir, Ahmed
-#     and Nasrallah, Ilya and Wen, Junhao and Doshi, Jimit and Erus, Guray and Mamourian,
-#     Elizabeth and Bryan, Nick R and others
-#   journal: bioRxiv
-#   year: '2022'
-# - title: "Genetic, clinical underpinnings of subtle early brain change along Alzheimer\u2019\
-#     s dimensions"
-#   authors: Wen, Junhao and Yang, Zhijian and Nasrallah, Ilya M and Cui, Yuhan and
-#     Erus, Guray and Srinivasan, Dhivya and Abdulkadir, Ahmed and Mamourian, Elizabeth
-#     and Hwang, Gyujoon and Singh, Ashish and others
-#   journal: bioRxiv
-#   year: '2022'
-# - title: Multiscale functional connectivity patterns of the aging brain learned from
-#     harmonized rsfMRI data of the multi-cohort iSTAGING study
-#   authors: Zhou, Zhen and Li, Hongming and Srinivasan, Dhivya and Abdulkadir, Ahmed
-#     and Nasrallah, Ilya M and Wen, Junhao and Doshi, Jimit and Erus, Guray and Mamourian,
-#     Elizabeth and Bryan, Nick R and others
-#   journal: NeuroImage
-#   year: '2023'
-# - title: Mapping the Evolution of Regional Brain Network Efficiency and Its Association
-#     with Infant Cognitive Abilities
-#   authors: Jiang, Weixiong and Zhou, Zhen and Li, Guoshi and Yin, Weiyan and Wu, Zhengwang
-#     and Wang, Li and Ghanbari, Maryam and Li, Gang and Yap, Pew-Thian and Howell,
-#     Brittany R and others
-#   journal: ''
-#   year: ''
-# - title: The Genetic Heterogeneity of Multimodal Human Brain Age.
-#   authors: Wen, Junhao and Zhao, Bingxin and Yang, Zhijian and Erus, Guray and Skampardoni,
-#     Ioanna and Mamourian, Elizabeth and Cui, Yuhan and Hwang, Gyujoon and Bao, Jingxuan
-#     and Boquet-Pujadas, Aleix and others
-#   journal: 'Biorxiv: the Preprint Server for Biology'
-#   year: '2023'
-# - title: Mapping the evolution of regional brain network efficiency and its association
-#     with cognitive abilities during the first twenty-eight months of life
-#   authors: Jiang, Weixiong and Zhou, Zhen and Li, Guoshi and Yin, Weiyan and Wu, Zhengwang
-#     and Wang, Li and Ghanbari, Maryam and Li, Gang and Yap, Pew-Thian and Howell,
-#     Brittany R and others
-#   journal: Developmental Cognitive Neuroscience
-#   year: '2023'
-# - title: Fine-grained functional parcellation maps of the infant cerebral cortex
-#   authors: Wang, Fan and Zhang, Han and Wu, Zhengwang and Hu, Dan and Zhou, Zhen and
-#     Girault, Jessica B and Wang, Li and Lin, Weili and Li, Gang
-#   journal: elife
-#   year: '2023'
-# - title: Cross-scale functional connectivity patterns of the aging brain learned from
-#     the multi-cohort iSTAGing study
-#   authors: Zhou, Zhen and Li, Hongming and Tran, Chau B and Ma, Yuncong and Srinivasan,
-#     Dhivya and Abdulkadir, Ahmed and Wen, Junhao and Erus, Guray and Mamourian, Elizabeth
-#     and Nasrallah, Ilya M and others
-#   journal: Alzheimer's \& Dementia
-#   year: '2023'
+  - title: White matter connectometry in patients with disorders of consciousness revealed by 7-Tesla magnetic resonance imaging
+    authors: Tan, Xufei and Zhou, Zhen and Gao, Jian and Yu, Yamei and Wei, Ruili and Luo, Benyan and Zhang, Xiaotong
+    journal: Brain Imaging and Behavior
+    pdf: https://link.springer.com/article/10.1007/s11682-022-00668-z
+    year: 2022
+  - title: Classification of type 2 diabetes mellitus with or without cognitive impairment from healthy controls using high-order functional connectivity
+    authors: Chen, Yuna and Zhou, Zhen and Liang, Yi and Tan, Xin and Li, Yifan and Qin, Chunhong and Feng, Yue and Ma, Xiaomeng and Mo, Zhanhao and Xia, Jing and others
+    journal: Human Brain Mapping
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25575 
+    year: 2021
+  - title: Effects of prenatal opioid exposure on functional networks in infancy
+    authors: Merhar, Stephanie L and Jiang, Weixiong and Parikh, Nehal A and Yin, Weiyan and Zhou, Zhen and Tkach, Jean A and Wang, Li and Kline-Fath, Beth M and He, Lili and Braimah, Adebayo and others
+    journal: Developmental Cognitive Neuroscience
+    pdf: https://www.sciencedirect.com/science/article/pii/S1878929321000864?via%3Dihub
+    year: 2021
+  - title: Longitudinal Parcellation of the Infant Cortex Using Multi-modal Connectome Harmonics
+    authors: Taylor, Hoyt Patrick and Ahmad, Sahar and Wu, Ye and Huynh, Khoi Minh and Zhou, Zhen and Wu, Zhengwang and Lin, Weili and Wang, Li and Li, Gang and Zhang, Han and others
+    journal: Computational Diffusion MRI
+    pdf: https://link.springer.com/chapter/10.1007/978-3-030-73018-5_20
+    year: 2021
+  - title: Cerebral perfusion mediated by thalamo-cortical functional connectivity in non-dominant thalamus affects naming ability in aphasia
+    authors: Zhang, Jie and Zhou, Zhen and Li, Lingling and Ye, Jing and Shang, Desheng and Zhong, Shuchang and Yao, Bo and Xu, Cong and Yu, Yamei and He, Fangping and others
+    journal: Human Brain Mapping
+    pdf: https://onlinelibrary.wiley.com/doi/10.1002/hbm.25696
+    year: 2022
+  - title: Existence of functional connectome fingerprint during infancy and its stability over months
+    authors: Hu, Dan and Wang, Fan and Zhang, Han and Wu, Zhengwang and Zhou, Zhen and Li, Guoshi and Wang, Li and Lin, Weili and Li, Gang and UNC/UMN Baby Connectome Project Consortium and others
+    journal: Journal of Neuroscience
+    pdf: https://www.jneurosci.org/content/42/3/377
+    year: 2022
+  - title: Harmonization of multi-site functional connectivity measures in tangent space improves brain age prediction
+    authors: Zhou, Zhen and Srinivasan, Dhivya and Li, Hongming and Abdulkadir, Ahmed and Shou, Haochang and Davatzikos, Christos and Fan, Yong and ISTAGING Consortium and others
+    journal: SPIE in Medical Imaging
+    pdf: https://doi.org/10.1117/12.2611557
+    year: 2022
+  - title: Divergent and convergent imaging markers between bipolar and unipolar depression based on machine learning
+    authors: Zhang, Huifeng and Zhou, Zhen and Ding, Lei and Wu, Chuangxin and Qiu, Meihui and Huang, Yueqi and Jin, Feng and Shen, Ting and Yang, Yao and Hsu, Li-Ming and others
+    journal: IEEE Journal of Biomedical and Health Informatics
+    pdf: https://ieeexplore.ieee.org/document/9756278
+    year: 2022
+  - title: Identification of potentially functional circRNAs and prediction of circRNA-miRNA-mRNA regulatory network in periodontitis: bridging the gap between bioinformatics and clinical needs
+    authors: Yu, Weijun and Gu, Qisheng and Wu, Di and Zhang, Weiqi and Li, Gang and Lin, Lu and Lowe, Jared M and Hu, Shucheng and Li, Tia Wenjun and Zhou, Zhen and others
+    journal: Journal of Periodontal Research
+    pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/jre.12989
+    year: 2022
+  - title: Neural alterations in opioid-exposed infants revealed by edge-centric brain functional networks
+    authors: Jiang, Weixiong and Merhar, Stephanie L and Zeng, Zhuohao and Zhu, Ziliang and Yin, Weiyan and Zhou, Zhen and Wang, Li and He, Lili and Vannest, Jennifer and Lin, Weili
+    journal: Brain Communications
+    pdf: https://academic.oup.com/braincomms/article/4/3/fcac112/6581020
+    year: 2022
+  - title: Multiscale functional connectivity patterns of the aging brain learned from harmonized rsfMRI data of the multi-cohort iSTAGING study
+    authors: Zhou, Zhen and Li, Hongming and Srinivasan, Dhivya and Abdulkadir, Ahmed and Nasrallah, Ilya M and Wen, Junhao and Doshi, Jimit and Erus, Guray and Mamourian, Elizabeth and Bryan, Nick R and others
+    journal: NeuroImage
+    pdf: https://www.sciencedirect.com/science/article/pii/S1053811923000599
+    year: 2023
+  - title: Mapping the Evolution of Regional Brain Network Efficiency and Its Association with Infant Cognitive Abilities
+    authors: Jiang, Weixiong and Zhou, Zhen and Li, Guoshi and Yin, Weiyan and Wu, Zhengwang and Wang, Li and Ghanbari, Maryam and Li, Gang and Yap, Pew-Thian and Howell, Brittany R and others
+    journal: Developmental Cognitive Neuroscience
+    pdf: https://www.sciencedirect.com/science/article/pii/S1878929323000890
+    year: 2023
+  - title: Fine-grained functional parcellation maps of the infant cerebral cortex
+    authors: Wang, Fan and Zhang, Han and Wu, Zhengwang and Hu, Dan and Zhou, Zhen and Girault, Jessica B and Wang, Li and Lin, Weili and Li, Gang
+    journal: elife
+    pdf: https://elifesciences.org/articles/75401
+    year: 2023
+  - title: Cross-scale functional connectivity patterns of the aging brain learned from the multi-cohort iSTAGing study
+    authors: Zhou, Zhen and Li, Hongming and Tran, Chau B and Ma, Yuncong and Srinivasan, Dhivya and Abdulkadir, Ahmed and Wen, Junhao and Erus, Guray and Mamourian, Elizabeth and Nasrallah, Ilya M and others
+    journal: Alzheimer's & Dementia
+    pdf: https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.077281
+    year: 2023
 # - title: Genomic loci influence patterns of structural covariance in the human brain
 #   authors: Wen, Junhao and Nasrallah, Ilya M and Abdulkadir, Ahmed and Satterthwaite,
 #     Theodore D and Yang, Zhijian and Erus, Guray and Robert-Fitzgerald, Timothy and
@@ -366,6 +302,13 @@ papers:
 #       Y and Yamashita, K and Hung, SC and Lin, W and others
 #     journal: ''
 #     year: '2019'
+
+
+
+
+
+
+
 
   # - title: "Commit0: Library Generation from Scratch"
   #   authors: "Wenting Zhao, Nan Jiang, Celine Lee, Justin T Chiu, Claire Cardie, Matthias Gallé, Alexander M Rush"
