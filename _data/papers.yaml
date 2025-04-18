@@ -273,32 +273,13 @@ papers:
 #     Russell T and Wolf, Daniel H and others
 #   journal: bioRxiv
 #   year: '2024'
-# - title: Organocatalytic asymmetric tandem reaction for the enantioselective synthesis
-#     of chiral oxindoles to construct CyK dyes
-#   authors: Wang, Le and Li, Zi-Hao and Wu, Di and Ge, Rui-Tian and Zhou, Jia and Zhang,
-#     Yin-Feng and Zhang, Shu-Yu
-#   journal: Chem Catalysis
-#   year: '2025'
-# - title: Harmonization of Structural Brain Connectivity through Distribution Matching
-#   authors: Zhou, Zhen and Fischl, Bruce and Aganj, Iman
-#   journal: bioRxiv
-#   year: '2024'
-
-# - title: "Relationship between MRI brain-age heterogeneity, cognition, genetics and\
-#     \ Alzheimer\u2019s disease neuropathology"
-#   authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray
-#     and Abdulkadir, Ahmed and Mamourian, Elizabeth and Melhem, Randa and Hwang, Gyujoon
-#     and Cui, Yuhan and Govindarajan, Sindhuja Tirumalai and others
-#   journal: EBioMedicine
-#   year: '2024'
-#   - title: Deep clustering survival machines with interpretable expert distributions
-#     authors: Hou, Bojian and Li, Hongming and Jiao, Zhicheng and Zhou, Zhen and Zheng,
-#       Hao and Fan, Yong
-#     journal: ''
-#     year: '2023'
-#   - title: International conference on medical image computing and computer-assisted
-#       intervention
-#     authors: Kam, TE and Wen, X and Jin, B and Jiao, Z and Hsu, LM and Zhou, Z and Liu,
-#       Y and Yamashita, K and Hung, SC and Lin, W and others
-#     journal: ''
-#     year: '2019'
+  - title: Relationship between MRI brain-age heterogeneity, cognition, genetics and Alzheimer's disease neuropathology
+    authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray and Abdulkadir, Ahmed and Mamourian, Elizabeth and Melhem, Randa and Hwang, Gyujoon and Cui, Yuhan and Govindarajan, Sindhuja Tirumalai and others
+    journal: EBioMedicine
+    pdf: https://www.sciencedirect.com/science/article/pii/S2352396424004353?via%3Dihub
+    year: 2024
+  - title: Deep clustering survival machines with interpretable expert distributions
+    authors: Hou, Bojian and Li, Hongming and Jiao, Zhicheng and Zhou, Zhen and Zheng, Hao and Fan, Yong
+    journal: ISBI
+    pdf: https://ieeexplore.ieee.org/document/10230844
+    year: 2023
