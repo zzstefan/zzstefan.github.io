@@ -258,11 +258,11 @@ papers:
     journal: Nature communications
     pdf: https://www.nature.com/articles/s41467-024-46796-6
     year: 2024
-  - title: 'pNet: A toolbox for personalized functional networks modeling'
+  - title: pNet A toolbox for personalized functional networks modeling
     authors: Ma, Yuncong and Li, Hongming and Zhou, Zhen and Chen, Xiaoyang and Ma, Liang and Guray, Erus and Balderston, Nicholas L and Oathes, Desmond J and Shinohara, Russell T and Wolf, Daniel H and others
     journal: bioRxiv
     pdf: https://www.biorxiv.org/content/10.1101/2024.04.26.591367v1
-    year: '2024'
+    year: 2024
   - title: Relationship between MRI brain-age heterogeneity, cognition, genetics and Alzheimer's disease neuropathology
     authors: Antoniades, Mathilde and Srinivasan, Dhivya and Wen, Junhao and Erus, Guray and Abdulkadir, Ahmed and Mamourian, Elizabeth and Melhem, Randa and Hwang, Gyujoon and Cui, Yuhan and Govindarajan, Sindhuja Tirumalai and Chen, Andrew A and Zhou, Zhen and others
     journal: EBioMedicine
