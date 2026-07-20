@@ -119,6 +119,17 @@ pre code {
     margin-left: 0;
 }
 
+.social-media-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+
+    li {
+        margin-bottom: 0;
+        white-space: nowrap;
+    }
+}
+
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
@@ -138,13 +149,12 @@ pre code {
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+    width:         calc(65% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    display: none;
 }
 
 @include media-query($on-laptop) {
