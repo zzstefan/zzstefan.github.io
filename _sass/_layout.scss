@@ -121,13 +121,34 @@ pre code {
 
 .social-media-list {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 8px 18px;
 
     li {
         margin-bottom: 0;
         white-space: nowrap;
     }
+
+    a {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        white-space: nowrap;
+    }
+}
+
+.icon--linkedin-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    background: $grey-color;
+    color: $background-color;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1;
 }
 
 .footer-col-wrapper {
@@ -158,10 +179,14 @@ pre code {
 }
 
 @include media-query($on-laptop) {
-    .footer-col-1,
+    .footer-col-1 {
+        width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+        width:         calc(35% - (#{$spacing-unit} / 2));
+    }
+
     .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+        width:         calc(65% - (#{$spacing-unit} / 2));
     }
 
     .footer-col-3 {
@@ -175,6 +200,10 @@ pre code {
         float: none;
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+    .social-media-list {
+        flex-wrap: wrap;
     }
 }
 
